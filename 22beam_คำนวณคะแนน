@@ -1,0 +1,9 @@
+subj1 = int(input("Enter your score: "))
+subj2 = int(input("Enter your score: "))
+subj3 = int(input("Enter your score: "))
+if subj1 + subj2 + subj3 >= 80:
+    print("ดีเยี่ยม")
+elif subj1 + subj2 + subj3 >= 60:
+    print("ผ่าน")
+else:
+    print("ควรปรับปรุง")
