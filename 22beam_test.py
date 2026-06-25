@@ -1,3 +1,5 @@
+print("คำนวณ BMI\n")
+
 Kg = int(input("ระบุน้ำหนัก: "))
 M = float(input("ระบุส่วนสูง(เมตร): "))
 proc = Kg / (M * M)
