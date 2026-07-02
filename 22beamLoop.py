@@ -14,4 +14,3 @@ while number != guess:
     else:
         break
 print("คุณทายถูก!")
-print("คุณทายไป", guess)
